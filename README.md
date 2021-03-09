@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/NickBash/nickbash/blob/main/assets/header.png)
 
 About me
 
